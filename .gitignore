@@ -3,5 +3,5 @@ best_early_stopping_models
 data
 narvi_pickles
 *.m
-comp_sgn_300_report.pdf
-
+grading.pdf
+project-slides*
